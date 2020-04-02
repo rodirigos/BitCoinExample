@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Java/BitCoin/src/principal/connect/MessageSenderUnicast.java</file>
+            <file>file:/E:/Java/BitCoin/src/principal/connect/ListenerReceiverUnicast.java</file>
+            <file>file:/E:/Java/BitCoin/src/teste/TesteRsa.java</file>
+            <file>file:/E:/Java/BitCoin/src/principal/mensagens/MensagemRequerimentoCompra.java</file>
+            <file>file:/E:/Java/BitCoin/src/principal/WalletOwner.java</file>
+            <file>file:/E:/Java/BitCoin/src/principal/connect/ListenerReceiveMulticast.java</file>
+            <file>file:/E:/Java/BitCoin/src/principal/Process.java</file>
+            <file>file:/E:/Java/BitCoin/src/teste/TesteRsa2.java</file>
+            <file>file:/E:/Java/BitCoin/src/principal/mensagens/MensagemRequerimentoAutorizacao.java</file>
+            <file>file:/E:/Java/BitCoin/src/principal/chave/Chave.java</file>
+            <file>file:/E:/Java/BitCoin/src/principal/transacoes/Transacao.java</file>
+            <file>file:/E:/Java/BitCoin/src/principal/gui/Processos.java</file>
+            <file>file:/E:/Java/BitCoin/src/principal/Wallet.java</file>
+            <file>file:/E:/Java/BitCoin/src/principal/gui/TableModelClientes.java</file>
+            <file>file:/E:/Java/BitCoin/src/teste/TesteListener.java</file>
+            <file>file:/E:/Java/BitCoin/src/principal/gui/MenuPrograma.java</file>
+            <file>file:/E:/Java/BitCoin/src/principal/connect/MessageSenderMulticast.java</file>
+            <file>file:/E:/Java/BitCoin/src/principal/gui/TableModelProcessos.java</file>
+            <file>file:/E:/Java/BitCoin/src/teste/TesteSocket.java</file>
+            <file>file:/E:/Java/BitCoin/src/teste/TesteConexao.java</file>
+            <file>file:/E:/Java/BitCoin/src/principal/mensagens/MensagemAutorizacao.java</file>
+        </group>
+    </open-files>
+</project-private>
